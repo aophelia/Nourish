@@ -21,9 +21,12 @@ Nourish is an program that supports people recovering from eating disorders with
 **Front End**
     - React Native
     - Expo
+
 **Backend**
     - Firebase (Firestone, Authentication, Storage)
+
 **UI Components**
     - React Native Paper/ NativeWind
+    
 **Build and Deploy**
     - Expo EAS (For AppStore and Play Store builds)
